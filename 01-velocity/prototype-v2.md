@@ -10,19 +10,23 @@ _____
 
 ## Upgrade paths run (pick two)
 
-- [ ] Design Match
-- [ ] Add Interactivity
+- [x] Design Match
+- [x] Add Interactivity
 - [ ] Surgical Refinement
 - [ ] Existing Product Track
 
 ## v2 build
 
-- **v2 shareable link:** _____
-- **Before → after:** _____
-- **What each pass changed:** _____
+- **Shareable link:** https://trust-booster-view.lovable.app
+- **Before → after:** Single Page non-interactive profile of one service provider -> A proper marketplace of servcie providers
+- **What each pass changed:**
+  - Design Match: Matched it to Shopify's profile
+  - Add Interactivity: When the seller clicks on different trust elements it shows exactly what was verified. I also added a verified purchase badge on the reviews.
 
 ## Show & Swap read, round 2
 
 _A NEW partner, a blind read. What landed differently from v1?_
 
-_____
+- **Feels like a real product, or a mockup?** Yes!
+- **Where interactivity fell short:** it was just showing pop up on the services providers but nothing more. There was no story
+- **Would they show it to a VP?** Not yet. More work needs to be done to show this to leadership. the flow has to be orchestrated correctly
