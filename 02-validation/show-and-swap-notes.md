@@ -4,16 +4,16 @@
 
 ## What I showed
 
-_____
+https://trust-spark-project.lovable.app
 
 ## What my partner understood (in their words)
 
-_____
+how the display of metrics on Service providers improved the clickthrough rate
 
 ## Where they got confused / pushed back
 
-_____
+The orginal definition of the experiment
 
 ## What I'll change as a result
 
-_____
+Changed the definition of the experiment
