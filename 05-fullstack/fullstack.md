@@ -6,7 +6,7 @@
 
 _The working, shareable link that survives real users._
 
-_____
+https://trust-spark-project.lovable.app
 
 ## Data schema
 
@@ -51,4 +51,4 @@ The only role that can set the experiment arm.
 
 _What you threw at it, and what held / broke._
 
-_____
+Offline Banner and Spam Click - Both were having issues . Fixed now .
